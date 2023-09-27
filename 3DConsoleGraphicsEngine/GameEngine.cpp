@@ -7,7 +7,7 @@ using namespace std;
 /*
     Hello, my name is Ryan Adolfs
     This is a relatively simple console 3D graphics engine.
-    I made this with LOTS of help from javidx9 on youtube as well as some other online resources
+    I made this with help from javidx9 on youtube as well as some other online resources
     I utilize a olcConsoleGameEngine.h file that was created by javidx9 as well.
     Proper credits are in the olcConsoleGameEngine.h file.
     Here is the github in which I reference a good chunk of source code
